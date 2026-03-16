@@ -1,0 +1,19 @@
+!<thin>
+//                                              122       `
+entry.o/
+entry_32.o/
+syscall_32.o/
+vdso/vma.o/
+vdso/extable.o/
+vdso/vdso32-setup.o/
+vdso/vdso32/vdso32-image.o/
+thunk.o/
+
+/0              0           0     0     644     1756      `
+/9              0           0     0     644     8824      `
+/21             0           0     0     644     37232     `
+/35             0           0     0     644     3060      `
+/47             0           0     0     644     896       `
+/63             0           0     0     644     1340      `
+/84             0           0     0     644     9688      `
+/112            0           0     0     644     936       `
